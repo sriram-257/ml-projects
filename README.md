@@ -18,14 +18,13 @@ This repository contains mini-projects and end-to-end solutions using popular ma
 
 ## 🚀 Projects
 
-<!--
-List your projects here. If possible, update with actual notebook/folder names, brief description, and a demo link if available.
--->
-- `project1.ipynb` – [Short description, e.g., "Linear Regression on Housing Prices"]
-- `project2.ipynb` – [Short description, e.g., "Image Classification with CNN"]
-- `project3.ipynb` – [Short description, e.g., "Clustering Analysis on Customer Data"]
-- _Add more..._
+- `notebook.ipynb` – Crop Prediction for Farmers 
+  using Logistic Regression on soil measurements 
+  (N, P, K, pH) to predict optimal crop type. 
+  22 crops, 2200 rows. Best feature: Potassium (K)
 
+- More projects coming soon...
+- 
 ## 🛠️ Technologies & Libraries
 
 - Language: **Python 3.x**
